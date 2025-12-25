@@ -17,7 +17,7 @@ It is commonly used in:
 - Other two-player, zero-sum games
 
 
-  **Key Concepts**
+**Key Concepts**
 
   - Minimax Algorithm: Determines the optimal move assuming the opponent plays optimally.
 
