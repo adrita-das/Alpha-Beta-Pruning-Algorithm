@@ -19,13 +19,13 @@ It is commonly used in:
 
 **Key Concepts**
 
-  - Minimax Algorithm: Determines the optimal move assuming the opponent plays optimally.
+- Minimax Algorithm: Determines the optimal move assuming the opponent plays optimally.
 
-  - Alpha (α): The best value that the maximizing player can guarantee.
+- Alpha (α): The best value that the maximizing player can guarantee.
 
-  - Beta (β): The best value that the minimizing player can guarantee.
+- Beta (β): The best value that the minimizing player can guarantee.
 
-  - Pruning: Discarding branches that do not affect the final outcome.
+- Pruning: Discarding branches that do not affect the final outcome.
 
 **Alpha–Beta Pruning Condition**
 
